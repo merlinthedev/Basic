@@ -1,0 +1,26 @@
+name: basic
+version: 1.0
+main: gg.zenex.basic
+
+commands:
+# permissions config commands
+  creload:
+    description: reload permissions.yml
+  mreload:
+    description: reload messages.yml
+    # ingame commands
+  gmc:
+    aliases: [gamemode c, gm1]
+  gms:
+    aliases: [gamemode s, gm0]
+  color:
+  staffchat:
+    aliases: [sc]
+  mutechat:
+    aliases: [mc]
+  clearchat:
+    aliases: [cc]
+  msg:
+  r:
+  tag:
+
